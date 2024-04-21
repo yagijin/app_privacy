@@ -1,0 +1,5 @@
+BoardgamesClock
+
+This app does not track and collect privacy inforamtion.
+Also, we do not provide information to third parties.
+If you have any questions, contact me from https://github.com/yagijin
